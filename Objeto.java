@@ -4,7 +4,7 @@ public class Objeto{
 	private int edad;
 
 	public Objeto(){
-		this ("",0);
+		this ("n",0);
 	}
 
 	public Objeto (String name, int age){
