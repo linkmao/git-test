@@ -10,6 +10,8 @@ public class Hola{
 		System.out.printf("El objeto creado tiene las siguinetes caracteristicas\nEdad: %s\nNombre: %d",aplicacion.getEdad(), aplicacion.getNombre());
 		// esto es un comentario que deberia desaparecer
 		// todo el codigi nuevo se pone en verde
+		// Nuevamente este codigo fuera
+		
 	}
 }
 
