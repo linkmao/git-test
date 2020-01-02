@@ -8,6 +8,8 @@ public class Hola{
 		Objeto aplicacion = new Objeto ("Mauricio", 40);
 		System.out.printf("El objeto creado tiene las siguinetes caracteristicas\nNombre: %s\nEdad: %d",aplicacion.getNombre(), aplicacion.getEdad());
 		System.out.printf("El objeto creado tiene las siguinetes caracteristicas\nEdad: %s\nNombre: %d",aplicacion.getEdad(), aplicacion.getNombre());
+		// esto es un comentario que deberia desaparecer
+		// todo el codigi nuevo se pone en verde
 	}
 }
 
